@@ -1,4 +1,4 @@
- function StoriesPage({ onSelect }) {
+export default function StoriesPage({ onSelect }) {
   return (
     <>
       <p>Current stories available:</p>

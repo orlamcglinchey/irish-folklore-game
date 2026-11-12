@@ -1,4 +1,4 @@
- function PartsPage() {
+ export default function PartsPage() {
   return (
     <>
       <p>Fadó fadó, a long time ago...</p>

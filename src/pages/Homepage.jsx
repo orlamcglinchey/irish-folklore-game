@@ -1,4 +1,4 @@
-function Homepage({onPlay}){
+export default function Homepage({onPlay}){
     return(
         <>
         <p className = "small">Welcome to...</p>
