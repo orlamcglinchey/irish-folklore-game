@@ -4,7 +4,7 @@ import Storiespage from './pages/Storiespage.jsx'
 import Partspage from './pages/Partspage.jsx'
 import './App.css'
 
-function App() {
+export default function App() {
 const [page,setPage] = useState('home')
   return (
     <main className="page">
